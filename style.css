@@ -32,6 +32,10 @@ header:before {
   z-index: -1;
   opacity: 1;
 }
+  #countdown {
+    font-size: 28px;
+    font-family: monospace;
+  }
 
 /*
   header:after {
@@ -143,7 +147,8 @@ svg {
     //font-weight: unset;
   }
   #countdown {
-    font-size: 16px;
+    font-size: 28px;
+    font-family: monospace;
   }
   .video-container iframe {
     width: 100vw;
